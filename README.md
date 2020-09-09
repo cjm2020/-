@@ -1,8 +1,9 @@
 # 历史资料
 
-_点击上面框框的“View Code”就可以看到其他文件了哦_
+_大致按时间由新到旧排序_
 
-_点击标题就可以下载文档啦_
+_进入页面请点击“使用浏览器下载”_
+
 [周末004](https://cloud.189.cn/t/jm6RjeiEruIv)
 
 [文艺复兴006](https://cloud.189.cn/t/EVFFviInQZry)
